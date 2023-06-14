@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8bde8621fa83ae54eadcda9419d51014
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - King Gaming Free Trial
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0303111e139cc4d4db84f24580ff76ed, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
